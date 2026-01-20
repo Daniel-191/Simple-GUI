@@ -7,3 +7,5 @@ SOURCE CODE FOR UPDATED VERISON HERE: https://github.com/Daniel-191/Password-Gen
 You can build the tool in visual studio OR run the pre built exe in releases
 
 ### This is my first GUI! Its very bad I know!
+
+![GUI Demo](img/ezgif.com-video-to-gif(1).gif)
